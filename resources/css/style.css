@@ -1,0 +1,37 @@
+html{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    background-color: #000;
+    text-align: center;
+    font-weight: normal;
+    }
+
+    /* top heading */
+
+    .main-header{
+        font-weight: normal;
+        font-size: 50px;
+        color: #fff;
+    }
+
+    .cta {
+        color: #7fffd4;
+        font-size: 16px;
+    }
+
+    /*camp photo*/
+
+    .sub-header{
+        font-weight: 300;
+        color: #fff;
+        font-size: 42px;
+    }
+
+    .description{
+        color: #808080;
+        font-size: 21px;
+    }
+
+    .copyright{
+        text-align: right;
+        color: #808080;
+    }
